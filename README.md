@@ -6,7 +6,7 @@
 >
 > **Status:** The manuscript is currently under peer review. This repository currently provides a project overview only, and **the code will be released after the paper is published**.
 
-![Pipeline overview](assets/heartvolmesh/pipeline_overview.png)
+![Pipeline overview](assets/heartvolmesh/GGS_MICCAI30.mp4)
 
 *Overview of HeartVolMesh. A covariance-guided image-to-surface module predicts the target boundary, and a template-driven volume-to-surface registration stage converts it into a patient-specific tetrahedral mesh.*
 
